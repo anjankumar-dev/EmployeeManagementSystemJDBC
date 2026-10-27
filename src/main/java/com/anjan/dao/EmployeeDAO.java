@@ -1,7 +1,7 @@
-package org.anjan.dao;
+package com.anjan.dao;
 
-import org.anjan.config.DataSourceProvider;
-import org.anjan.entity.Employee;
+import com.anjan.config.DataSourceProvider;
+import com.anjan.entity.Employee;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package org.anjan.entity;
+package com.anjan.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

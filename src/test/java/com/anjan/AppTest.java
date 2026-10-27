@@ -1,4 +1,4 @@
-package org.anjan;
+package com.anjan;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

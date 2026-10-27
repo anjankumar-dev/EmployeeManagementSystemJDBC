@@ -1,11 +1,11 @@
-package org.anjan;
+package com.anjan;
 
-import org.anjan.config.DataSourceProvider;
-import org.anjan.entity.Employee;
-import org.anjan.exceptions.EmployeeAlreadyExistException;
-import org.anjan.service.EmployeeService;
-import org.anjan.exceptions.EmployeeNotFoundException;
-import org.anjan.exceptions.InvalidEmployeeDataException;
+import com.anjan.config.DataSourceProvider;
+import com.anjan.entity.Employee;
+import com.anjan.exceptions.EmployeeAlreadyExistException;
+import com.anjan.service.EmployeeService;
+import com.anjan.exceptions.EmployeeNotFoundException;
+import com.anjan.exceptions.InvalidEmployeeDataException;
 
 import java.math.BigDecimal;
 import java.sql.SQLException;

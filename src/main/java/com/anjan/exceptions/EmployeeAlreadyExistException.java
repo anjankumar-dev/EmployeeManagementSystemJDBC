@@ -1,4 +1,4 @@
-package org.anjan.exceptions;
+package com.anjan.exceptions;
 
 public class EmployeeAlreadyExistException extends Exception{
     public EmployeeAlreadyExistException(String msg){
